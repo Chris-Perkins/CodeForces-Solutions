@@ -1,0 +1,15 @@
+My CodeForces profile: http://codeforces.com/profile/Christopher-Perkins#
+
+If you want to see my submissions as they were submitted, you can check the files in this repository or 
+	the "Submissions" tab on my CodeForces profile.
+If you're trying to gauge my current skill, consult the log and review the most recent programs.
+
+IDEs/Editors Used:
+	PyDev (Eclipse's Python plugin)
+	IDLE
+
+Mission in doing CodeForce:
+	1) To grow better at recognizing greedy algorithms
+	2) To expand my knowledge on unknown algorithms
+	3) To increase my "field of view" on how problems can be solved
+	4) Learn Python from scratch

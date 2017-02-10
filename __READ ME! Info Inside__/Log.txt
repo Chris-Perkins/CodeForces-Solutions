@@ -1,0 +1,13 @@
+-- Python 3.6 used--
+02/09/17
+	231A....Team
+	118A....String Task
+	50A.....Domino Piling
+	158A....Next Round
+	71A.....Way Too Long Words
+	4A......Watermelon
+
+
+--Python 2.7 below (switched to 3.6 after these two)--
+02/08/17	281A - Word Capitalization
+02/08/17	1A - Theatre Square
