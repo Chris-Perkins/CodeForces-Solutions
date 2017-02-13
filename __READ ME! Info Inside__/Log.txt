@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/13/17
+	263A....Beautiful Matrix
+	58A.....Chat Room
+	236A....Boy or Girl
+	122A....Lucky Division
+	160A....Twins
 02/12/17
 	133A....HQ9+
 	131a....Caps Lock
