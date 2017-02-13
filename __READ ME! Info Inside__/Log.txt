@@ -1,4 +1,16 @@
 -- Python 3.6 used--
+02/12/17
+	133A....HQ9+
+	131a....Caps Lock
+	116A....Tram
+	266A....Stones on the Table
+02/11/17
+	339A....Helpful Maths
+	112A....Petya and Strings
+	158B....Taxi
+02/10/17
+	96A.....Football
+	282A....Bit++
 02/09/17
 	231A....Team
 	118A....String Task

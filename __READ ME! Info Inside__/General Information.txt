@@ -4,6 +4,9 @@ If you want to see my submissions as they were submitted, you can check the file
 	the "Submissions" tab on my CodeForces profile.
 If you're trying to gauge my current skill, consult the log and review the most recent programs.
 
+In general, in terms of difficulty, the higher you go up in lexographical order, the harder the problem.
+	Example: 158B is harder than 158A
+
 IDEs/Editors Used:
 	PyDev (Eclipse's Python plugin)
 	IDLE
@@ -13,3 +16,4 @@ Mission in doing CodeForce:
 	2) To expand my knowledge on unknown algorithms
 	3) To increase my "field of view" on how problems can be solved
 	4) Learn Python from scratch
+	5) Complete at least five programs every weekday except Friday
