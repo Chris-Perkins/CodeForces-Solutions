@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/14/17
+	266B....Queue at the School
+	110A....Lucky Digits
+	148A....Insomnia Cure
+	546A....Soldier and Bananas
+	467A....George and Accomodation
 02/13/17
 	263A....Beautiful Matrix
 	58A.....Chat Room
