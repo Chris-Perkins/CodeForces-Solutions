@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/15/17
+	41A.....Translation
+	136A....Presents
+	337A....Puzzles
+	69A.....Young Physicist
+	271A....Beautiful Year
 02/14/17
 	266B....Queue at the School
 	110A....Lucky Digits
