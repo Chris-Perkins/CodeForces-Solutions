@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/16/17
+	472A....Design Tutorial: Learn from Math
+	82A.....Double Cola
+	486A....Calculating Function
+	479A....Expression
+	580A....Kefa and First Steps
 02/15/17
 	41A.....Translation
 	136A....Presents
