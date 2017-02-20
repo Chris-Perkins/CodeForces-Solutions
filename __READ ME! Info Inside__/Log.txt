@@ -1,4 +1,13 @@
 -- Python 3.6 used--
+02/19/17
+	460A....Vasya and Socks
+02/18/17
+	379A....New Year Candles
+	469A....I Wanna Be the Guy
+02/17/17
+	144A....Arrival of the General
+	451A....Game with Sticks
+	208A....Dubstep
 02/16/17
 	472A....Design Tutorial: Learn from Math
 	82A.....Double Cola

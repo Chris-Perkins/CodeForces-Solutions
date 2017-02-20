@@ -4,8 +4,10 @@ If you want to see my submissions as they were submitted, you can check the file
 	the "Submissions" tab on my CodeForces profile.
 If you're trying to gauge my current skill, consult the log and review the most recent programs.
 
-In general, in terms of difficulty, the higher you go up in lexographical order, the harder the problem.
-	Example: 158B is harder than 158A
+In general, the higher you go up in lexographical order of the suffix letter, the harder the problem.
+	Example 1: 158B is harder than 158A
+	Example 2: 158B is harder than 1000A
+	Example 3: 1000A is as hard as 158A
 
 IDEs/Editors Used:
 	PyDev (Eclipse's Python plugin)
