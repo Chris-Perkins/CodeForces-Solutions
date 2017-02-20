@@ -1,4 +1,11 @@
 -- Python 3.6 used--
+02/20/17
+	268A....Games
+	344A....Magnets
+	119A....Epic Game
+	61A.....Ultra-fast Mathematician
+	617A....Elephant
+	318A....Even Odds
 02/19/17
 	460A....Vasya and Socks
 02/18/17
