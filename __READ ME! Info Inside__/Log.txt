@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/21/17
+	228A....Is your horseshoe on the other hoof?
+	25A.....IQ Test
+	510A....Fox and Snake
+	443A....Anton and Letters
+	500A....New Year Transportation
 02/20/17
 	268A....Games
 	344A....Magnets
@@ -61,5 +67,6 @@
 
 
 --Python 2.7 below (switched to 3.6 after these two)--
-02/08/17	281A - Word Capitalization
-02/08/17	1A - Theatre Square
+02/08/17
+	281A....Word Capitalization
+	1A......Theatre Square
