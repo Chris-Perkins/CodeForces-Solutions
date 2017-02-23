@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/22/17
+	230A....Dragons
+	339B....Xenia and Ringroad
+	141A....Amusing Joke
+	405A....Gravity Flip
+	520A....Pangram
 02/21/17
 	228A....Is your horseshoe on the other hoof?
 	25A.....IQ Test
