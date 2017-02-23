@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/23/17
+	584A - Olesya and Rodion
+	313A - Ilya and Bank Account
+	492A....Vanya and Cubes
+	59A.....Word
+	466A....Cheap Travel
 02/22/17
 	230A....Dragons
 	339B....Xenia and Ringroad
