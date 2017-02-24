@@ -1,4 +1,8 @@
 -- Python 3.6 used--
+02/24/17
+	777D - Cloud of Hashtags
+	777B - Game of Credit Cards	SUBMITTED FOR COMPETITION
+	777A - Shell Game		SUBMITTED FOR COMPETITION
 02/23/17
 	584A - Olesya and Rodion
 	313A - Ilya and Bank Account
