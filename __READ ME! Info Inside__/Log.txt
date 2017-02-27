@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/27/17
+	723A - The New Year: Meeting Friends
+	705A - Hulk
+	478A - Initial Bet
+	155A - I_love_%username%
+	581A - Vasya the Hipster
 02/26/17
 	492B - Vanya and Lanterns
 02/24/17
