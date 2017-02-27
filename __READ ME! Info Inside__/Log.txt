@@ -1,4 +1,6 @@
 -- Python 3.6 used--
+02/26/17
+	492B - Vanya and Lanterns
 02/24/17
 	777D - Cloud of Hashtags
 	777B - Game of Credit Cards	SUBMITTED FOR COMPETITION
