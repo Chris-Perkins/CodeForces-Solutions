@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+02/29/17
+	734A - Anton and Danik
+	432A - Choosing Teams
+	732A - Buy a Shovel
+	711A - Bus to Udayland
+	677A - Vanya and Fence
 02/28/17
 	509A - Maximum in Table
 	268B - Buttons
