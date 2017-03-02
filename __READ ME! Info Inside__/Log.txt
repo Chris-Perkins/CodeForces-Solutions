@@ -1,5 +1,11 @@
 -- Python 3.6 used--
-02/29/17
+03/02/17
+	707A - Brain's Photos
+	327A - Flipping Game
+	519B - A and B Compilation Errors
+	4C - Registration System
+	448A - Rewards
+03/01/17
 	734A - Anton and Danik
 	432A - Choosing Teams
 	732A - Buy a Shovel
