@@ -1,37 +1,41 @@
 -- Python 3.6 used--
+03/05/17
+	782A...Andryusha and Socks	SUBMITTED FOR COMPETITION
+03/03/17
+	577A....Multiplication Table
 03/02/17
-	707A - Brain's Photos
-	327A - Flipping Game
-	519B - A and B Compilation Errors
-	4C - Registration System
-	448A - Rewards
+	707A....Brain's Photos
+	327A....Flipping Game
+	519B....A and B Compilation Errors
+	4C......Registration System
+	448A....Rewards
 03/01/17
-	734A - Anton and Danik
-	432A - Choosing Teams
-	732A - Buy a Shovel
-	711A - Bus to Udayland
-	677A - Vanya and Fence
+	734A....Anton and Danik
+	432A....Choosing Teams
+	732A....Buy a Shovel
+	711A....Bus to Udayland
+	677A....Vanya and Fence
 02/28/17
-	509A - Maximum in Table
-	268B - Buttons
-	750A - New Year and Hurry
-	200B - Drinks
-	540A - Combination Lock
+	509A....Maximum in Table
+	268B....Buttons
+	750A....New Year and Hurry
+	200B....Drinks
+	540A....Combination Lock
 02/27/17
-	723A - The New Year: Meeting Friends
-	705A - Hulk
-	478A - Initial Bet
-	155A - I_love_%username%
-	581A - Vasya the Hipster
+	723A....The New Year: Meeting Friends
+	705A....Hulk
+	478A....Initial Bet
+	155A....I_love_%username%
+	581A....Vasya the Hipster
 02/26/17
-	492B - Vanya and Lanterns
+	492B....Vanya and Lanterns
 02/24/17
-	777D - Cloud of Hashtags
-	777B - Game of Credit Cards	SUBMITTED FOR COMPETITION
-	777A - Shell Game		SUBMITTED FOR COMPETITION
+	777D....Cloud of Hashtags
+	777B....Game of Credit Cards	SUBMITTED FOR COMPETITION
+	777A....Shell Game		SUBMITTED FOR COMPETITION
 02/23/17
-	584A - Olesya and Rodion
-	313A - Ilya and Bank Account
+	584A....Olesya and Rodion
+	313A....Ilya and Bank Account
 	492A....Vanya and Cubes
 	59A.....Word
 	466A....Cheap Travel
