@@ -1,6 +1,12 @@
 -- Python 3.6 used--
+03/06/17
+	703A....Mishka and Game
+	474A....Keyboard
+	588A....Duff and Meat
+	490A....Team Olympian
+	427A....Police Recruits
 03/05/17
-	782A...Andryusha and Socks	SUBMITTED FOR COMPETITION
+	782A....Andryusha and Socks	SUBMITTED FOR COMPETITION
 03/03/17
 	577A....Multiplication Table
 03/02/17
