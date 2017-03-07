@@ -1,4 +1,10 @@
 -- Python 3.6 used--
+03/07/17
+	476A....Dreamoon and Stairs
+	270A....Fancy Fence
+	519A....A and B and Chess
+	579A....Bacteria
+	513A....Game
 03/06/17
 	703A....Mishka and Game
 	474A....Keyboard
