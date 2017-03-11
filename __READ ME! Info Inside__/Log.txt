@@ -1,4 +1,9 @@
 -- Python 3.6 used--
+03/10/17
+	721A....One-dimensional Japaneses Crossword
+	570A....Elections
+	758A....Holiday of Equality
+	474B....Worms
 03/09/17
 	237A....Free Cash
 	514A....Chewbacca and Number
