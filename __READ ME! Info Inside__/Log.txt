@@ -1,4 +1,10 @@
--- Python 3.6 used--
+-- Python 3.6 used --
+03/13/17
+	583A....Asphalting Roads
+	527A....Playing with Paper
+	456A....Laptops
+	551A....GukiZ and Contest
+	471A....MUH and Sticks
 03/12/17
 	734B....Anton and Digits
 	621A....Wet Shark and Odd and Even
@@ -149,7 +155,7 @@
 	4A......Watermelon
 
 
---Python 2.7 below (switched to 3.6 after these two)--
+-- Python 2.7 used --
 02/08/17
 	281A....Word Capitalization
 	1A......Theatre Square

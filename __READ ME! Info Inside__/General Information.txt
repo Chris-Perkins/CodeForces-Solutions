@@ -1,5 +1,9 @@
 My CodeForces profile: http://codeforces.com/profile/Christopher-Perkins#
 
+HUGE NOTE: I rarely comment my solutions, as I'm going for speed when writing these programs (as if I was in competition).
+		If you would like me to run through my solutions for you, let me know the programs in advance so I have a chance to review them myself.
+		If I do not receive this advance notice, I probably won't know what you're asking since I've written 100+ programs.
+
 If you want to see my submissions as they were submitted, you can check the files in this repository or 
 	the "Submissions" tab on my CodeForces profile.
 If you're trying to gauge my current skill, consult the log and review the most recent programs.
@@ -18,4 +22,4 @@ Mission in doing CodeForce:
 	2) To expand my knowledge on unknown algorithms
 	3) To increase my "field of view" on how problems can be solved
 	4) Learn Python from scratch
-	5) Complete at least five programs every weekday except Friday
+	5) Complete at least five programs every weekday except Friday (if possible)
