@@ -1,4 +1,12 @@
 -- Python 3.6 used--
+03/12/17
+	734B....Anton and Digits
+	621A....Wet Shark and Odd and Even
+	733A....Grasshopper and the String
+	489B....BerSU Ball
+	701A....Cards
+03/11/17
+	782D....Innokenty and a Football League
 03/10/17
 	721A....One-dimensional Japaneses Crossword
 	570A....Elections

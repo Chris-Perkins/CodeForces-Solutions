@@ -1,0 +1,7 @@
+After finishing the problem, the brainstorming picture I created turns out to be relatively inaccurate as to my true strategy.
+
+Despite these differences, the core concepts remain the same, and I believe that seeing how one's thought process changes while finding a solution is more important the the solution itself.
+
+As such, I will keep it as is.
+
+If you really try, you can find where my brainstorm idea intertwines with the finished product. Ex: "" in my brainstorm = None in the final program.
