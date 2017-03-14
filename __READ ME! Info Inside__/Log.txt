@@ -1,4 +1,14 @@
 -- Python 3.6 used --
+03/14/17
+	118B....Present from Lena
+	499B....Lecture
+	742A....Arpa's hard exam and Mehrdad's naive cheat
+	749A....Bachgold Problem
+	560A....Currency System in Geraldion
+	37A.....Towers
+	124A....The number of positions
+	349A....Cinema Line
+	719A....Vitya in the Countryside
 03/13/17
 	583A....Asphalting Roads
 	527A....Playing with Paper
