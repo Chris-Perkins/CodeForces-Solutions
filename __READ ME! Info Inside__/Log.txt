@@ -1,4 +1,10 @@
 -- Python 3.6 used --
+03/17/17
+	330A....Cakeminator
+	520B....Two Buttons
+	688B....Lovely Palindromes
+	611A....New Year and Days
+	732B....Cormen-- the Best Friend of Man
 03/16/17
 	659A....Round House
 	615A....Bulbs
