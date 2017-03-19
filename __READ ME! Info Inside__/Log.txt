@@ -1,4 +1,9 @@
 -- Python 3.6 used --
+03/18/17
+	556A....Case of Zeros and Ones
+	599A....Patrick and Shopping
+	771B....Bear and Different Names
+	791A....Bear and Big Brother
 03/17/17
 	330A....Cakeminator
 	520B....Two Buttons
@@ -12,8 +17,8 @@
 	461A....Appleman and Toastman
 	507A....Amr and Music
 	313B....Ilya and Queries
-	785B....Anton and Classes	SUBMITTED FOR COMPETITION
-	785A....Anton and Polyhedrons	SUBMITTED FOR COMPETITION
+	785B....Anton and Classes
+	785A....Anton and Polyhedrons
 03/14/17
 	118B....Present from Lena
 	499B....Lecture
@@ -68,7 +73,7 @@
 	490A....Team Olympian
 	427A....Police Recruits
 03/05/17
-	782A....Andryusha and Socks	SUBMITTED FOR COMPETITION
+	782A....Andryusha and Socks
 03/03/17
 	577A....Multiplication Table
 03/02/17
@@ -99,8 +104,8 @@
 	492B....Vanya and Lanterns
 02/24/17
 	777D....Cloud of Hashtags
-	777B....Game of Credit Cards	SUBMITTED FOR COMPETITION
-	777A....Shell Game		SUBMITTED FOR COMPETITION
+	777B....Game of Credit Cards
+	777A....Shell Game
 02/23/17
 	584A....Olesya and Rodion
 	313A....Ilya and Bank Account
