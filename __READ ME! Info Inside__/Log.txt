@@ -1,4 +1,6 @@
 -- Python 3.6 used --
+03/19/17
+	101020C.Rectangles
 03/18/17
 	556A....Case of Zeros and Ones
 	599A....Patrick and Shopping
