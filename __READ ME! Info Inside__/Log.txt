@@ -1,4 +1,10 @@
 -- Python 3.6 used --
+03/20/17
+	706B....Interesting drink
+	441A....Valera and Antique Items
+	706A....Beru-Taxi
+	189A....Cut Ribbon
+	455A....Boredom
 03/19/17
 	101028E.Teams
 	101020C.Rectangles
