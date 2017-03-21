@@ -1,6 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
 
-03/21/17 - Java Used
+03/21/17 - Java 8.0 Used
 	454A....Little Pony and Crystal Mine
 	651A....Joysticks
 	688A....Opponents
