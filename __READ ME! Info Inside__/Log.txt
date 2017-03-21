@@ -1,4 +1,11 @@
--- Python 3.6 used --
+-- Python 3.6 used unless noted otherwise--
+
+03/21/17 - Java Used
+	454A....Little Pony and Crystal Mine
+	651A....Joysticks
+	688A....Opponents
+	151A....Soft Drinking
+	686A....Free Ice Cream
 03/20/17
 	706B....Interesting drink
 	441A....Valera and Antique Items
