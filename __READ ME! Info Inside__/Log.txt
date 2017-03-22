@@ -1,5 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
-
+03/22/17
+	368B....Sereja and Suffixes
+	451B....Sort the Array
+	519C....A and B and Team Training
+	431A....Black Square
+	731A....Night at the Museum
 03/21/17 - Java 8.0 Used
 	454A....Little Pony and Crystal Mine
 	651A....Joysticks
@@ -200,8 +205,6 @@
 	71A.....Way Too Long Words
 	4A......Watermelon
 
-
--- Python 2.7 used --
-02/08/17
+02/08/17 - Python 2.7 used-
 	281A....Word Capitalization
 	1A......Theatre Square
