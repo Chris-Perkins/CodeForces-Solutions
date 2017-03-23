@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+03/23/17
+	378A....Playing with Dice
+	552B....Vanya and Books
+	675A....Infinite Sequence
+	787B....Not Afraid
+	787A....The Monster
 03/22/17
 	782B....The Meeting Place Cannot be Changed
 	368B....Sereja and Suffixes
