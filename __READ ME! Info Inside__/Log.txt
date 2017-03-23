@@ -1,5 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
 03/22/17
+	782B....The Meeting Place Cannot be Changed
 	368B....Sereja and Suffixes
 	451B....Sort the Array
 	519C....A and B and Team Training
