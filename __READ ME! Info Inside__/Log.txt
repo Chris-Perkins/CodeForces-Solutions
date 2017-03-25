@@ -1,4 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
+03/25/17
+	572A....Arrays
 03/23/17
 	378A....Playing with Dice
 	552B....Vanya and Books
