@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+03/27/17
+	681A....A Good Contest
+	757A....Gotta Catch Em' All!
+	764A....Taymyr is calling you
+	630A....Again Twenty Five!
+	515C....Drazil and Factorial
 03/25/17
 	572A....Arrays
 03/23/17
