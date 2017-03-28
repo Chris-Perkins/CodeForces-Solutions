@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+03/28/17
+	591A....Wizard's Duel
+	255A....Greg's Workout
+	462A....Appleman and Easy Task
+	761A....Dasha and Stairs
+	450A....Jzzhu and Children
 03/27/17
 	681A....A Good Contest
 	757A....Gotta Catch Em' All!
