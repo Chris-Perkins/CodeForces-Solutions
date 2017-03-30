@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+03/29/17
+	672A....Summer Camp
+	401A....Vanya and Cards
+	570B....Simple Game
+	501A....Contest
+	573A....Bear and Poker
 03/28/17
 	591A....Wizard's Duel
 	255A....Greg's Workout
