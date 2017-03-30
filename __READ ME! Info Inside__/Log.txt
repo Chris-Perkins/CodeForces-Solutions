@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+03/30/17
+	680A....Bear and Five Cards
+	598A....Tricky Sum
+	766A....Mahmoud and Longest Uncommon Subsequence
+	670A....Holidays
+	276A....Lunch Rush
 03/29/17
 	672A....Summer Camp
 	401A....Vanya and Cards
