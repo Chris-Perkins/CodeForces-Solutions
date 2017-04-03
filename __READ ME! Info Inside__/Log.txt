@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/03/17
+	384A....Coder
+	697A....Pineapple Incident
+	535A....Tavas and Nafas
+	545A....Toy Cars
+	746A....Compote
 03/30/17
 	680A....Bear and Five Cards
 	598A....Tricky Sum
