@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/04/17
+	479C....Exams
+	496A....Minimum Difficulty
+	385A....Bear and Raspberry
+	545D....Queue
+	43C.....Lucky Tickets
 04/03/17
 	384A....Coder
 	697A....Pineapple Incident
