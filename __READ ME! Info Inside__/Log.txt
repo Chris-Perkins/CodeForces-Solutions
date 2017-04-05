@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/05/17
+	363B....Fence
+	595A....Vitaly and Night
+	733B....Parade
+	115A....Party
+	546B....Soldier and Badges
 04/04/17
 	479C....Exams
 	496A....Minimum Difficulty

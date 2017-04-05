@@ -1,4 +1,4 @@
-<b>Mission in doing CodeForces</b>
+<b><u>Mission in doing CodeForces</u></b>
 <ul>
 <li>To learn Python from scratch</li>
 <li>To grow better at recognizing greedy algorithms</li>  
