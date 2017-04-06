@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/06/17
+	712A....Memory and Crow
+	610A....Pasha and Stick
+	463B....Caisa and Pylons
+	320A....Magic Numbers
+	334A....Candy Bags
 04/05/17
 	363B....Fence
 	595A....Vitaly and Night
