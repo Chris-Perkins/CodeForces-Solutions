@@ -13,8 +13,6 @@
 <li>IDLE</li>
 </ul>
 
-If you're trying to gauge my current skill, consult the log and review the most recent programs.
-
 In general, the higher you go up in lexographical order of the suffix letter, the harder the problem.
 <ol>
 <li>158B is harder than 158A</li>
@@ -23,4 +21,4 @@ In general, the higher you go up in lexographical order of the suffix letter, th
 </ol>
 
 <b>HUGE NOTE</b>: I rarely comment my solutions, as I'm going for speed when writing these programs (as if I was in competition).
-		If you would like me to run through my solutions for you, let me know!
+		This is not how I program in a practical setting. Please keep that in mind. :)
