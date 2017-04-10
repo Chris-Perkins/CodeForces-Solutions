@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/10/17
+	581B....Luxurious Houses
+	766B....Mahmoud and a Triangle
+	702A....Maximum Increase
+	554A....Kyoya and Photobooks
+	507B....Amr and Pins
 04/06/17
 	712A....Memory and Crow
 	610A....Pasha and Stick
