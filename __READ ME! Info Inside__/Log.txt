@@ -1,4 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
+04/11/17
+	534A....Exam
 04/10/17
 	581B....Luxurious Houses
 	766B....Mahmoud and a Triangle
