@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/12/17
+	721B....Passwords
+	258A....Little Elephant and Bits
+	508B....Anton and currency you all know
+	750B....New Year and North Pole
+	233A....Perfect Permutation
 04/11/17
 	535B....Tavas and SaDDas ALTERNATE
 	535B....Tavas and SaDDas
