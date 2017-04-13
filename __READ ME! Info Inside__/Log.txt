@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/13/17
+	714A....Meeting of Old Friends
+	710A....King Moves
+	38A.....Army
+	352A....Jeff and Digits
+	735A....Ostap and Grasshopper
 04/12/17
 	721B....Passwords
 	258A....Little Elephant and Bits
