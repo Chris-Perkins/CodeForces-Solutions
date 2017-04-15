@@ -1,4 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
+04/15/17
+	797B....Odd Sum
 04/13/17
 	714A....Meeting of Old Friends
 	710A....King Moves
