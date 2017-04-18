@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/17/17
+	476B....Dreamoon and WiFi
+	499A....Watching a movie
+	404A....Valera and X
+	580B....Kefa and Company
+	538B....Quasi Binary
 04/15/17
 	797B....Odd Sum
 04/13/17
