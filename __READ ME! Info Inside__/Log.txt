@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/18/17
+	764B....Timofey and Cubes
+	483A....Counterexample
+	672B....Different is Good
+	381A....Sereja and Dima
+	723B....Text Document Analysis
 04/17/17
 	476B....Dreamoon and WiFi
 	499A....Watching a movie
