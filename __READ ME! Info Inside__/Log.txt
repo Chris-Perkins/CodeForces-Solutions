@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/19/17
+	682A....Alonya and Numbers
+	279B....Books
+	465A....inc ARG
+	586A....Alena's Schedule
+	447B....DZY Loves Strings
 04/18/17
 	764B....Timofey and Cubes
 	483A....Counterexample
