@@ -13,11 +13,12 @@
 <li>IDLE</li>
 </ul>
 
-In general, the higher you go up in lexographical order of the suffix letter, the harder the problem.
+In general, the higher you go up in lexographical order of the suffix letter, the harder the problem.  
+Examples:
 <ol>
 <li>158B is harder than 158A</li>
-<li>Example 2: 158B is harder than 1000A</li> 
-<li>Example 3: 1000A is as hard as 158A</li>
+<li>158B is harder than 1000A</li> 
+<li>1000A is as hard as 158A</li>
 </ol>
 
 <b>HUGE NOTE</b>: I rarely comment my solutions, as I'm going for speed when writing these programs (as if I was in competition).
