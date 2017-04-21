@@ -1,4 +1,9 @@
 -- Python 3.6 used unless noted otherwise--
+04/20/17
+	583B....Robot's Task
+	43A.....Football
+	9A......Die Roll
+	550C....Divisibility by Eight
 04/19/17
 	682A....Alonya and Numbers
 	279B....Books
