@@ -1,29 +1,4 @@
 -- Python 3.6 used unless noted otherwise--
-04/22/17
-	734A....Vladik and Flights
-04/20/17
-	583B....Robot's Task
-	43A.....Football
-	9A......Die Roll
-	550C....Divisibility by Eight
-04/19/17
-	682A....Alonya and Numbers
-	279B....Books
-	465A....inc ARG
-	586A....Alena's Schedule
-	447B....DZY Loves Strings
-04/18/17
-	764B....Timofey and Cubes
-	483A....Counterexample
-	672B....Different is Good
-	381A....Sereja and Dima
-	723B....Text Document Analysis
-04/17/17
-	476B....Dreamoon and WiFi
-	499A....Watching a movie
-	404A....Valera and X
-	580B....Kefa and Company
-	538B....Quasi Binary
 04/15/17
 	797B....Odd Sum
 04/13/17
