@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/24/17
+	545B....Equidistant String
+	262A....Roma and Lucky Numbers
+	456B....Fedya and Maths
+	488A....Giga Tower
+	680B....Bear and Criminals
 04/22/17
 	734A....Vladik and Flights
 04/20/17
