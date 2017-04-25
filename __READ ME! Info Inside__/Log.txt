@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/25/17
+	557A....Ilya and Diplomas
+	701B....Cells Not Under Attack
+	699A....Launch of Collider
+	548A....Mike and Fax
+	3A......Shortest Path of the King
 04/24/17
 	545B....Equidistant String
 	262A....Roma and Lucky Numbers
