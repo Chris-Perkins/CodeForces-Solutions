@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/26/17
+	463A....Caisa and Sugar
+	709A....Juicer
+	698A....Vacations
+	617B....Chocolate
+	445A....DZY Loves Chessboard
 04/25/17
 	557A....Ilya and Diplomas
 	701B....Cells Not Under Attack
