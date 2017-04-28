@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+04/27/17
+	758B....Blown Garland
+	2A......Winner
+	514A....Vitaliy and Pie
+	34B.....Sale
+	549A....Face Detection
 04/26/17
 	463A....Caisa and Sugar
 	709A....Juicer
