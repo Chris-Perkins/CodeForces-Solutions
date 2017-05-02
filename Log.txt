@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/02/17
+	146A....Lucky Ticket
+	439B....Devu, the Dumb Guy
+	620A....Professor GukiZ's Robot
+	219A....k-String
+	514B....Han Solo and Lazer Gun
 05/01/17
 	545C....Woodcutters
 	278A....Circle Line
