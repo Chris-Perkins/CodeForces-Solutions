@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/04/17
+	604A....Uncowed Forces
+	285C....Building Permutation
+	798A....Mike and Palindrome
+	465B....Inbox (100500)
+	435A....Queue on Bus Stop
 05/03/17
 	472B....Design Tutorial: Learn from Life
 	427B....Prison Transfer
