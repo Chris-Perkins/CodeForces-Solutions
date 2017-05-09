@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/08/17
+	651B....Beautiful Paintings
+	574A....Bear and Elections
+	152A....Marks
+	670B....Game of Robots
+	75A.....Life Without Zeros
 05/04/17
 	604A....Uncowed Forces
 	285C....Building Permutation
