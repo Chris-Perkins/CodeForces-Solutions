@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/09/17
+	214A....System of Equations
+	676A....Nicholas and Permutation
+	552A....Vanya and Table
+	450B....Jzzhu and Sequences
+	588B....Duff in Love
 05/08/17
 	651B....Beautiful Paintings
 	574A....Bear and Elections
