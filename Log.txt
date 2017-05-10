@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/10/17
+	129A....Cookies
+	659C....Tanya and Toys
+	454B....Little Pony and Sort by Shift
+	165A....Supercentral Point
+	711B....Chris and Magic Square
 05/09/17
 	214A....System of Equations
 	676A....Nicholas and Permutation
