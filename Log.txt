@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/11/17
+	609A....USB Flash Drives
+	602A....Two Bases
+	592B....The Monster and the Squirrel
+	353A....Domino
+	567B....Berland National Library
 05/10/17
 	129A....Cookies
 	659C....Tanya and Toys
