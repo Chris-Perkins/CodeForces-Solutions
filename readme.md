@@ -21,5 +21,7 @@ Examples:
 <li>1000A is as hard as 158A</li>
 </ol>
 
+If you want to know how I came up with my solution, feel free to reach out! I'll be glad to explain :)
+
 <b>HUGE NOTE</b>: I rarely comment my solutions, as I'm going for speed when writing these programs (as if I was in competition).
 		This is not how I program in a practical setting. Please keep that in mind. :)
