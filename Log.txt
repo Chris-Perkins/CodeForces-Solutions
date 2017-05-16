@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/15/17
+	300A....Array
+	714B....Filya and Homework
+	596B....Wilbur and Array
+	745A....Hongcow Learns the Cyclic Shift
+	804A....Find Amir
 05/11/17
 	609A....USB Flash Drives
 	602A....Two Bases
