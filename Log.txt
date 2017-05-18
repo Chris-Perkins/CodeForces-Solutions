@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/18/17
+	779A....Pupils Redistribution
+	389A....Fox and Number Game
+	546C....Soldier and Cards
+	618A....Slime Combining
+	705B....Spider Man
 05/15/17
 	300A....Array
 	714B....Filya and Homework
