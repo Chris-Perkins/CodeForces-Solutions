@@ -1,4 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
+05/21/17
+	755A....Polandball and Hypothesis
 05/20/17
 	224A....Parallelepipad
 05/18/17
