@@ -1,4 +1,7 @@
 -- Python 3.6 used unless noted otherwise--
+05/22/17
+	746B....Decoding
+	805A....Fake NP
 05/21/17
 	755A....Polandball and Hypothesis
 05/20/17
