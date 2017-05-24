@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/24/17
+	431C....k-tree
+	556B....Case of Fake Numbers
+	732C....Sanatorium
+	606A....Magic Spheres
+	559A....Gerald's Hexagon
 05/23/17
 	712B....Memory and Trident
 	80A.....Panoramix's Prediction
