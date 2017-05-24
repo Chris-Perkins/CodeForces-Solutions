@@ -1,4 +1,8 @@
 -- Python 3.6 used unless noted otherwise--
+05/23/17
+	712B....Memory and Trident
+	80A.....Panoramix's Prediction
+	84A.....Toy Army
 05/22/17
 	746B....Decoding
 	805A....Fake NP
