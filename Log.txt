@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/25/17
+	779B....Weird Rounding
+	482A....Diverse Permutation
+	608A....Saitama Destroys Hotel
+	743B....Chloe and the Sequence
+	114A....Cifera
 05/24/17
 	431C....k-tree
 	556B....Case of Fake Numbers
