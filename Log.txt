@@ -1,4 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
+05/28/17
+	631.....Interview
 05/25/17
 	779B....Weird Rounding
 	482A....Diverse Permutation
