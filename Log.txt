@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+05/31/17
+	789A....Anastasia and Pebbles
+	664A....Complicated GCD
+	576B....Vasya and Petya's Game
+	805B....3-Palindrome
+	748A....Santa Claus and a Place in a Class
 05/28/17
 	631.....Interview
 05/25/17
