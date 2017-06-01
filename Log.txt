@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+06/01/17
+	350A....TL
+	682B....Alyona and Mex
+	508A....Pasha and Pixels
+	708A....Letters Cyclic Shift
+	265A....Colorful Stones
 05/31/17
 	789A....Anastasia and Pebbles
 	664A....Complicated GCD
