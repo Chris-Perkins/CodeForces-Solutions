@@ -1,4 +1,6 @@
 -- Python 3.6 used unless noted otherwise--
+06/04/17
+	650A....Watchmen
 06/03/17
 	740A....Alyona and Copybooks
 06/01/17
