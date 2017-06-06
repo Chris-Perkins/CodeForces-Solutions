@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+06/05/17
+	621B....Wet Shark and Bishops ALTERNATE
+	621B....Wet Shark and Bishops
+	387A....George and Sleep
+	327B....Hungry Sequence
+	554B....Ohana Cleans Up
 06/04/17
 	650A....Watchmen
 06/03/17
