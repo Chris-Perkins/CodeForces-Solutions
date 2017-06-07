@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+06/06/17
+	495A....Counter
+	6A......Triangle
+	716B....Complete the Word
+	265B....Roadside Trees (Simplified Edition)
+	811A....Vladik and Courtesy
 06/05/17
 	621B....Wet Shark and Bishops ALTERNATE
 	621B....Wet Shark and Bishops
