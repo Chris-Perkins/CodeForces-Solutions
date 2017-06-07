@@ -1,4 +1,10 @@
 -- Python 3.6 used unless noted otherwise--
+06/07/17
+	276B....Little Girl and Game
+	275A....Light's Out
+	681B....Economy Game
+	378C....Maze
+	139A....Petr and Book
 06/06/17
 	495A....Counter
 	6A......Triangle
