@@ -1,6 +1,9 @@
--- Python 3.6 used unless noted otherwise--
+-- Python 3 used unless noted otherwise--
+
+06/12/17
+	591B....Rebranding
 06/10/17
-    
+	414B....Mashmokh and ACM
 06/08/17
 	272A....Dima and Friends
 	230B....T-primes
