@@ -1,5 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
+06/14/17
+	448B....Suffix Structures
+	765A....Neverending competitions
+	584B....Kolya and Tanya
+	401C....Team
+	160B....Unlucky Ticket
 06/13/17
 	285A....Slightly Decreasing Permutations
 	735B....Urbanization
