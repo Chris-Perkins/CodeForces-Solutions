@@ -1,5 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
+06/15/17
+	719B....Anatoly and Cockroaches
+	629B....Far Relative's Problem
+	462B....Appleman and Card Game
+	814B....An abandoned sentiment from the past
+	4B......Before an Exam
 06/14/17
 	448B....Suffix Structures
 	765A....Neverending competitions
