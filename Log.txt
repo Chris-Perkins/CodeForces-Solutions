@@ -1,5 +1,7 @@
 -- Python 3 used unless noted otherwise--
 
+06/16/17
+	779C....Dishonest Sellers
 06/15/17
 	719B....Anatoly and Cockroaches
 	629B....Far Relative's Problem
