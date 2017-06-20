@@ -1,7 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
-06/17/17
-    776B....Sherlock and his Girlfriend
+06/19/17
+	460B....Little Dima and Equation
+	630C....Lucky Numbers
+	489A....Swap Sort
+	754B....Ilya and tic-tac-toe game
+	550B....Preparing an Olympiad
 06/16/17
 	779C....Dishonest Sellers
 06/15/17
