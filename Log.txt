@@ -1,5 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
+06/21/17
+	754A....Lesha and array splitting
+	625B....War of the Corporations
+	678A....Johny likes Numbers
+	501B....Misha and Changing Handles
+	199A....Hexadecimal's theorem
 06/19/17
 	460B....Little Dima and Equation
 	630C....Lucky Numbers
