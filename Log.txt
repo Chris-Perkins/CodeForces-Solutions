@@ -1,5 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
+06/22/17
+	596A....Wilbur and Swimming Pool
+	433B....Kuriyama Mirai's Stones
+	447A....DZY Loves Hash
+	486B....OR in Matrix
+	624B....Making a String
 06/21/17
 	754A....Lesha and array splitting
 	625B....War of the Corporations
