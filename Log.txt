@@ -1,5 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
+06/26/17
+	278C....Learning Languages
+	673A....Bear and Game
+	379B....New Year Present
+	760A....Petr and a calendar
+	570C....Replacement
 06/22/17
 	596A....Wilbur and Swimming Pool
 	433B....Kuriyama Mirai's Stones
