@@ -1,5 +1,7 @@
 -- Python 3 used unless noted otherwise--
 
+06/27/17
+	747A....Display Size
 06/26/17
 	278C....Learning Languages
 	673A....Bear and Game
