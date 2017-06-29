@@ -1,5 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
+06/28/17
+	724A....Checking the Calendar
+	158C....cd and pwd commands
+	687A....NP-Hard Problem
+	633A....Ebony and Ivory
+	330B....Road Construction
 06/27/17
 	747A....Display Size
 06/26/17
