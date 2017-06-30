@@ -1,5 +1,9 @@
 -- Python 3 used unless noted otherwise--
 
+06/29/17
+	478C....Table Decorations
+	558B....Amr and The Large Array
+	707C....Pythagorean Triples
 06/28/17
 	724A....Checking the Calendar
 	158C....cd and pwd commands
