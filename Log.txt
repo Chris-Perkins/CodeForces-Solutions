@@ -1,5 +1,11 @@
 -- Python 3 used unless noted otherwise--
 
+07/04/17
+    538A....Cutting Banner
+    592A....Pawnchess
+    761B....Dasha and Friends
+    296A....Yaroslav and Permutations
+    822A....Bored with Life
 07/03/17
     388C....Fox and Box Accumulation
 07/01/17
