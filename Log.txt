@@ -1,17 +1,22 @@
--- Python 3 used unless noted otherwise--
+﻿-- Python 3 used unless noted otherwise--
 
+07/05/17
+	620B....Grandfather Dovlet's calculator
+	680C....Bear and Prime 100
+	492C....Vanya and Exams
+    	816A....Karen and Morning
 07/04/17
-    538A....Cutting Banner
-    592A....Pawnchess
-    761B....Dasha and Friends
-    296A....Yaroslav and Permutations
-    822A....Bored with Life
+    	538A....Cutting Banner
+    	592A....Pawnchess
+    	761B....Dasha and Friends
+    	296A....Yaroslav and Permutations
+    	822A....Bored with Life
 07/03/17
-    388C....Fox and Box Accumulation
+    	388C....Fox and Box Accumulation
 07/01/17
-    810A....Straight «A»
+    	810A....Straight «A»
 06/30/17
-    166A....Rank List
+	166A....Rank List
 06/29/17
 	478C....Table Decorations
 	558B....Amr and The Large Array
