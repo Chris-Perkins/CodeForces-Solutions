@@ -15,6 +15,7 @@
 	<li>PyCharm</li>
 	<li>IntelliJ</li>
 	<li>PyDev (Eclipse's Python plugin)</li>  
+	<li>Eclipse (For Java solutions)</li>
 	<li>IDLE</li>
 </ul>
 
