@@ -1,5 +1,7 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/12/17
+	432B....Football Kit
 07/11/17
 	822B....Crossword Solving
 	433A....Kitahara Haruki's Gift
