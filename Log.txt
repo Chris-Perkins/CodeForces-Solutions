@@ -1,5 +1,11 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/13/17
+	518A....Vitaly and Strings
+	722A....Broken Clock
+	699B....One Bomb
+	452A....Eevee
+	109A....Lucky Sum of Digits
 07/12/17
 	432B....Football Kit
 07/11/17
