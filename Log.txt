@@ -1,5 +1,11 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/18/17
+	675B....Restoring Paintings
+	221A....Little Elephant and Function
+	831B....Keyboard Layouts
+	510B....Fox and Two Dots
+	166E....Tetrahedron
 07/17/17
 	767A....Snack Tower
 	820A....Mister B and Book Reading
