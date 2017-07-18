@@ -1,5 +1,8 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/17/17
+	767A....Snack Tower
+	820A....Mister B and Book Reading
 07/13/17
 	518A....Vitaly and Strings
 	722A....Broken Clock
