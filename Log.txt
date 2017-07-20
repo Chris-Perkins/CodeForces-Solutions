@@ -1,5 +1,10 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/20/17
+	588C....Duff and Weight Lifting
+	581C....Developing Skills
+	472C....Design Tutorial - Make it Nondeterministic
+	246A....Buggy Sorting
 07/19/17
 	26A.....Almost Prime
 	714A....Sonya and Queries
