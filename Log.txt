@@ -1,5 +1,11 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/25/17
+	437A....The Child and Homework
+	157B....Trace
+	446C....DZY Loves Sequences
+	34A.....Reconnaisance 2
+	796B....Find the Bone
 07/24/17
 	831A....Unimodal Array
 07/20/17
