@@ -1,5 +1,10 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/26/17
+	614A....Link/Cut Tree
+	415A....Mashmokh and Lights
+	691A....Fashion in Berland
+	557B....Pasha and Tea
 07/25/17
 	437A....The Child and Homework
 	157B....Trace
