@@ -1,5 +1,44 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/27/17
+	611C....New Year and Domino
+	493B....Vasya and Wrestling
+	801A....Vicious Keyboard
+	544A....Set of Strings
+	361A....Levko and Table
+07/26/17
+	614A....Link/Cut Tree
+	415A....Mashmokh and Lights
+	691A....Fashion in Berland
+	557B....Pasha and Tea
+07/25/17
+	437A....The Child and Homework
+	157B....Trace
+	446C....DZY Loves Sequences
+	34A.....Reconnaisance 2
+	796B....Find the Bone
+07/24/17
+	831A....Unimodal Array
+07/20/17
+	588C....Duff and Weight Lifting
+	581C....Developing Skills
+	472C....Design Tutorial - Make it Nondeterministic
+	246A....Buggy Sorting
+07/19/17
+	26A.....Almost Prime
+	714A....Sonya and Queries
+	259B....Little Elephant and Magic Square
+	801B....Valued Keys
+	362B....Petya and Staircases
+07/18/17
+	675B....Restoring Paintings
+	221A....Little Elephant and Function
+	831B....Keyboard Layouts
+	510B....Fox and Two Dots
+	166E....Tetrahedron
+07/17/17
+	767A....Snack Tower
+	820A....Mister B and Book Reading
 07/13/17
 	518A....Vitaly and Strings
 	722A....Broken Clock
