@@ -1,5 +1,11 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+07/27/17
+	611C....New Year and Domino
+	493B....Vasya and Wrestling
+	801A....Vicious Keyboard
+	544A....Set of Strings
+	361A....Levko and Table
 07/26/17
 	614A....Link/Cut Tree
 	415A....Mashmokh and Lights
