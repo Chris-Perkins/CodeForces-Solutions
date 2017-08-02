@@ -1,5 +1,11 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+08/01/17
+	525B....Pasha and String
+	168A....Wizards and Demonstration
+	387B....George and Round
+	340A....The Wall
+	804B....Minimum Number of Steps
 07/31/17
 	835A....Key Races
 07/27/17
