@@ -1,5 +1,11 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+08/03/17 Review Day! Going to past problems I didn't know how to do. :)
+	1B......Spreadsheets
+	313B....Ilya and Queries
+	835B....The number on the board
+	478B....Random Teams
+	459B....Pashmak and Flowers
 08/02/17
 	489C....Given Length and Sum of Digits
 	834A....The Useless Toy
