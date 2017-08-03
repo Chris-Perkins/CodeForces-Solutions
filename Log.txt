@@ -1,6 +1,7 @@
 ﻿-- Python 3 used unless noted otherwise--
 
 08/03/17 Review Day! Going to past problems I didn't know how to do. :)
+	550A....Two Substrings
 	1B......Spreadsheets
 	313B....Ilya and Queries
 	835B....The number on the board
