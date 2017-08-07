@@ -1,6 +1,7 @@
 ﻿-- Python 3 used unless noted otherwise--
 
 08/07/17
+	706C....Hard Problem
 	158D....Ice Sculptures
 	205A....Little Elephant and Rozdil
 	474D....Flowers
