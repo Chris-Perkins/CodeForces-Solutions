@@ -1,5 +1,11 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+08/07/17
+	158D....Ice Sculptures
+	205A....Little Elephant and Rozdil
+	474D....Flowers
+	832A....Sasha and Sticks
+	466C....Number of Ways
 08/03/17 Review Day! Going to past problems I didn't know how to do. :)
 	550A....Two Substrings
 	1B......Spreadsheets
