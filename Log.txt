@@ -1,5 +1,9 @@
 ﻿-- Python 3 used unless noted otherwise--
 
+11/01/17
+	854A....Fraction
+	841A....Generous Kefa
+	839A....Arya and Bran
 08/07/17
 	706C....Hard Problem
 	158D....Ice Sculptures
