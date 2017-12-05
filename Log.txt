@@ -1,5 +1,7 @@
-﻿-- Python 3 used unless noted otherwise--
+-- Python 3 used unless noted otherwise--
 
+12/04/17
+	864A....Fair Game
 11/01/17
 	854A....Fraction
 	841A....Generous Kefa
